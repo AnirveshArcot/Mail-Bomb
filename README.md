@@ -15,6 +15,6 @@ Now before you actually use this program make sure of the following :
 2. Any attachments that you would like to have in the mail should also be put in the same folder as the python file and the user.txt file.
 3. Make sure to turn on "Less secure app access" for the account that you will be using, the link to it is "https://www.google.com/settings/security/lesssecureapps"
 
-To use this program just run the program like any other in a terminal or command prompt 
+To use this program just run the "run.bat" file.
 
 Have Fun!
