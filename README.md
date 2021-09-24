@@ -1,7 +1,7 @@
 # Mail-Bomb
 A simple program to automate sending a large number of emails to a specified target. Refer to the read me file for more into :)
 
-
+Check this video out for a guide on how to use this repo https://youtu.be/SYhPLZSoKbM
 
 
 Hello there! 
